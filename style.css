@@ -1,0 +1,17 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    font-size: 74px;
+    margin-top: -10px;
+}
+
+.error {
+    font-size: 20px;
+    margin-top: -50px;
+}
+
+.un {
+    margin-top: -30px;
+}
